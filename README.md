@@ -1,5 +1,5 @@
 # Request-SQL
-# <a href="" target="_blank"><img src="https://img.shields.io/badge/COBOL-55769A.svg?style=for-the-badge&logo=COBOL&logoColor=white" target="_blank"></a>
+# <a href="" target="_blank"><img src="https://img.shields.io/badge/COBOL-0A2B3D.svg?style=for-the-badge&logo=none" target="_blank"></a>
 
 In this project, I have created a COBOL program with the purpose of displaying a list of athletes for the Boca Juniors team. The program is divided into four sections: Identification, Environment, Data, and Procedure.
 
